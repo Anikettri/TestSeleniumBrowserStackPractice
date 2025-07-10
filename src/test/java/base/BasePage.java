@@ -19,4 +19,7 @@ public class BasePage {
             driver.quit();
         }
     }
+    public WebDriver getDriver() {
+        return driver;
+    }
 }
