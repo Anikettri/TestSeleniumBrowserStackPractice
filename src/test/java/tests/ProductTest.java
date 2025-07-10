@@ -7,7 +7,6 @@ import pages.HomePage;
 import pages.ProductPage;
 import utils.WaitUtils;
 
-import java.util.Base64;
 import java.util.List;
 
 public class ProductTest extends BasePage {
